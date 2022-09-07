@@ -1,6 +1,6 @@
 ## Hey, I'm Rhea! <img src="https://rheaadh.github.io/images/hey.gif" width="32px">
 
-* 🌱  I’m currently learning **System Design**,**Swift** and **Android Dev(Java)**.
+* 🌱  I’m currently learning **System Design**,**Swift** and **AppDev(Android,Java)**.
 * 🔭  I’m looking to collaborate on open source projects.
 * 💬  Ping me about anything. Always happy to help! ✋
 * 📫  How to reach me: https://rheaadhikari.netlify.app/
