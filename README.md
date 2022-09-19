@@ -17,3 +17,4 @@
 
 ## GitHub Stats 📊
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rheaadh&show_icons=true&locale=en" alt="rheaadh" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rheaadh&label=Profile%20views&color=0e75b6&style=flat" alt="rheaadh" /> </p>
