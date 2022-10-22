@@ -2,7 +2,7 @@
 
 * 🔭  I’m looking to collaborate on projects at scale or interesting ideas that can bring impact.
 * 💬  Ping me about anything. Always happy to help! ✋
-* 📫  How to reach me: https://rheaadhikari.netlify.app/
+* 📫  How to reach me: https://linktr.ee/rheaadhikari
 * 😄  Pronouns: She/Her 👩‍💻
 
 ## Connect with me: 
