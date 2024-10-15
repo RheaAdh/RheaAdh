@@ -3,7 +3,7 @@
 
 👩‍💻 **Software Engineer** | I’m driven by a deep passion for solving challenging problems and building impactful products. With experience at top tech companies like Amazon and Salesforce, I've focused on backend development, helping create solutions that streamline everyday tasks and improve user experiences.
 
-🏸 **Outdoor Sports Enthusiast** | I love playing sports, especially badminton and cricket! My hobbies keep me energized and motivated, bringing a fresh perspective to my work.
+🏸 **Sports Enthusiast** | I love playing sports, especially badminton and cricket! My hobbies keep me energized and motivated, bringing a fresh perspective to my work.
 
 📧 **Let’s connect** | rheadhikari@gmail.com
 
