@@ -1,13 +1,13 @@
 ## Hey, I'm Rhea! <img src="https://rheaadh.github.io/images/hey.gif" width="32px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rheaadh&label=Profile%20views&color=0e75b6&style=flat" alt="rheaadh" /> </p>
 
-I'm a passionate Software Engineer 🚀 constantly seeking opportunities to learn and grow. Beyond coding, I'm fueled by a love for sports🏏.
+👩‍💻 **Software Engineer** | I’m driven by a deep passion for solving challenging problems and building impactful products. With experience at top tech companies like Amazon and Salesforce, I've focused on backend development, helping create solutions that streamline everyday tasks and improve user experiences.
 
-📩 Let's Connect! 📩
+🏸 **Outdoor Sports Enthusiast** | I love playing sports, especially badminton and cricket! My hobbies keep me energized and motivated, bringing a fresh perspective to my work.
 
-I'm always excited to connect with fellow professionals, industry experts, and anyone passionate about technology and innovation. Feel free to reach out if you'd like to discuss new opportunities, share insights, or just chat about our shared interests.
+📧 **Let’s connect** | rheadhikari@gmail.com
 
-Email: rheadhikari@gmail.com
+🌐 **Website** | https://rheaadhikari.netlify.app
 
 <!-- ## GitHub Stats 📊 -->
 
